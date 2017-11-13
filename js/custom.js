@@ -151,6 +151,7 @@
 			liuyan.append('<li><a class="fl" href="javascript:;">' + name + '</a>'
 								+   ' <p>' + talkMessage+ ' </p>'
 								+  ' </li>');
+			alert("如果你有什么想对我说的话，请把你的祝福发送到邮箱378413072@qq.com，第二天就可以看到你的留言了");
 		});
 		
 		// Preloader & Option Panel
