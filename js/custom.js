@@ -153,14 +153,7 @@
 								+  ' </li>');
 			alert("如果你有什么想对我说的话，请把你的祝福发送到邮箱378413072@qq.com，第二天就可以看到你的留言了");
 		});
-		
-		// Preloader & Option Panel
-		$('.spinner').fadeOut();
-		$('.setting_panel').show();
-		
-		$('#preloader').delay(350).fadeOut('slow');
-		
-		$('body').delay(350);
+			
 		
 
 		// Portfolio Items
